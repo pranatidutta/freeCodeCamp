@@ -7,6 +7,9 @@ AngularJS (versions 1.x) is an open source front-end JavaScript framework. Angul
 It reduces the repetitive use of HTML code. This repetition can be avoided by using the directives provided by AngularJS which saves 
 much time and effort.
 
+## Use
+AngularJS is a JavaScript framework, best used to build Single Page Apllication (SPA)
+
 **Install**:
 
 npm:
