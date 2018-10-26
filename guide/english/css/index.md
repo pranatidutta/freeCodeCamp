@@ -14,6 +14,17 @@ You can build some pretty amazing things in CSS alone, such as this pure-CSS [Mi
 
 ![](https://cdn-images-1.medium.com/max/800/1*GFcKk9KxqHAnWa1ECcKDOQ.png)
 
+### Notes :
+     1. CSS is a language that describes the style of an HTML Document
+     2. It can control the layout of multiple web pages all at once.
+     3. We can add CSS to HTML files either as INTERNAL style-sheet or EXTERNAL style-sheets.
+     4. External stylesheets are stored in CSS Files.
+     5. Syntax :
+          p {
+              color : red;
+              text-align : center;
+          }
+
 #### Suggested Reading:
 A good start is the freeCodeCamp curriculum [Introduction to Basic CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css).
 
