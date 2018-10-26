@@ -119,6 +119,16 @@ Here is the syntax and options can be used with `ng update`.
 `--style`
 
   The file extension to be used for style files. (Ex. ng new app --style=scss)
+  
+### Bundling
+
+All builds make use of bundling, and using the --prod flag in "ng build --prod" or "ng serve --prod" will also make use of uglifying and tree-shaking functionality.
+
+### Unit tests & end-to-end tests
+
+Tests will execute after a build is executed via Karma, and it will automatically watch our files for changes. We can run tests a single time : "--watch = false" or "--single-run".
+
+      ng e2e : used to run end-to-end tests are run via Protactor.
 
 #### Conclusion
 
