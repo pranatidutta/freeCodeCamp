@@ -5,6 +5,12 @@ title: Relational Databases
 
 As a database is a way to store data, relational-databases are a model for how the data is being stored. The data is organized into tables, also known as relations. The tables contain a record for each instance of the data, known as records or tuples. Unique identifiers identify each record to describe it across the database.
 
+## Notes
+
+  1. Relational Database system uses mathematical set theory to effectively organize data.
+  2. Relational Database Theory defines a process called "Normalization".
+  3. Normalization ensures that the set of tables defined will organize the data effectively.
+
 ## Tables
 
 Like the a sheet in excel, tables are made up of columns and rows. Each row is an instance of data with attributes in the column of the table know as fields. There can be several tables for each category for entities. An example could be a table of users. Each row would be a user and each field would be details on the user like email, password, and contact details for that specific user. In Figure 1 you can see diagram of the example.
