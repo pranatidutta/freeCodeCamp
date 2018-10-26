@@ -16,6 +16,13 @@ We know that I/O tasks take much longer than processing tasks. Node.js uses call
 Let us assume that a particular I/O task takes 5 secs to execute.
 And we want to perform this I/O twice in our code.
 
+### Features :
+    1. Single threaded, but highly scalable
+    2. Asynchronous & Event-driven
+    3. Fast
+    4. Non-blocking
+    5. Memory efficient
+
 **Python**
 ```python
 import time
